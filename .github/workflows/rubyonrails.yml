@@ -37,7 +37,7 @@ jobs:
           bundler-cache: true
       # Running bundle install  
       - name: Run bundle install manually if needed
-        run: bundle install
+        run: pwd && ls -la && bundle install
       # Add or replace database setup steps here
       - name: Set up database schema
         run: bin/rails db:schema:load
