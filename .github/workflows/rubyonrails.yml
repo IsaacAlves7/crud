@@ -31,7 +31,7 @@ jobs:
         
       # Running bundle install: Installing dependencies
       - name: Run bundle install manually if needed
-        run: pwd && ls -la && bundle install
+        run: ls -la && bundle install
         
       # Add or replace dependency steps here
       - name: Install Ruby and gems
