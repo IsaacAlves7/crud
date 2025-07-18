@@ -29,15 +29,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         
+      # Add Linux platform to Gemfile.lock
+      - name: Add Linux platform to Gemfile.lock
+        run: bundle lock --add-platform x86_64-linux
+        
+      # Running bundle install: Installing dependencies
+      - name: Run bundle install manually if needed
+        run: pwd && ls -la && bundle install
+        
       # Add or replace dependency steps here
       - name: Install Ruby and gems
         uses: ruby/setup-ruby@78c01b705fd9d5ad960d432d3a0cfa341d50e410 # v1.179.1
         with:
           ruby-version: 3.1.2
           bundler-cache: true
-      # Running bundle install  
-      - name: Run bundle install manually if needed
-        run: pwd && ls -la && bundle install
       # Add or replace database setup steps here
       - name: Set up database schema
         run: bin/rails db:schema:load
