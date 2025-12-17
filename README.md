@@ -38,27 +38,42 @@ Coloquei lado a lado com a determinada funcionalidade que essas tecnologias dese
   <tr>
     <td><b>CRUD</b></td>
     <td><b>SQL</b></td>
-    <td><b>HTTP</b></td>
+    <td><b>NoSQL Document (BSON)</b></td>
+    <td><b>HTTP Verbs</b></td>
+    <td><b>HTTP Status</b></td>
+    <td><b>Supported Params</b></td>
   </tr>
   <tr>
     <td><b>C</b>reate</td>
     <td>INSERT</td>
+    <td>insertOne/ insertMany</td>
     <td>POST</td>
+    <td>201</td>
+    <td>Over URL (PATH or QUERY PARAMS)/ Over Header/ Over Body</td>
   </tr>
   <tr>
     <td><b>R</b>ead</td>
     <td>SELECT</td>
+    <td>{ age: { $gt: 30 } }</td>
     <td>GET</td>
+    <td>200/404-400</td>
+    <td>Over URL (PATH or QUERY PARAMS)/ Over Header</td>
   </tr>
   <tr>
     <td><b>U</b>pdate</td>
     <td>UPDATE</td>
+    <td>$set, $inc, $push ou $pull</td>
     <td>PUT/PATCH</td>
+    <td>200/204</td>
+    <td>Over URL (PATH or QUERY PARAMS)/ Over Header/ Over Body</td>
   </tr>
   <tr>
     <td><b>D</b>elete</td>
     <td>DELETE/DROP</td>
+    <td>deleteOne/ deleteMany</td>
     <td>DELETE</td>
+    <td>200/204</td>
+    <td>Over URL (PATH or QUERY PARAMS)/ Over Header/ Over Body</td>
   </tr>
 </table>
 
