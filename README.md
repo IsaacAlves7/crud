@@ -15,7 +15,7 @@ Portanto, essa é uma aplicação Back-End que pode conter ou não interface gr�
 
 > **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação. Ele é praticamente um Todo-list, mas pode ser muito mais do que somente um tipo de aplicação web.
 
-Além disso a integração com o lado do cliente e o lado do servidor é feito com uma API chamada **REST API**, necessária para atender as requisições e respostas enviadas pelos métodos do protocolo HTTP entre os dois lados. Para isso você deve configurar suas atividades do protocolo HTTP em ambos os lados da sua aplicação, para tanto o navegador quanto o servidor interpretar essa troca de mensagens entre si.
+Além disso a integração com o lado do cliente (Consumo da API) e o lado do servidor (Construção e consumo da API) é feito com uma API chamada **REST API**, necessária para atender as requisições e respostas enviadas pelos métodos do protocolo HTTP entre os dois lados. Para isso você deve configurar suas atividades do protocolo HTTP em ambos os lados da sua aplicação, para tanto o navegador quanto o servidor interpretar essa troca de mensagens entre si.
 
 <img width="1828" height="711" alt="Captura de tela 2025-12-16 233132" src="https://github.com/user-attachments/assets/ab81d1df-6bd4-44f5-9f11-70d54d292e2b" />
 
