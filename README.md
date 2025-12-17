@@ -20,6 +20,8 @@ Além disso a integração com o lado do cliente e o lado do servidor é feito c
 <img width="1828" height="711" alt="Captura de tela 2025-12-16 233132" src="https://github.com/user-attachments/assets/ab81d1df-6bd4-44f5-9f11-70d54d292e2b" />
 
 ## Preparação da aplicação
+<img src="https://img.shields.io/badge/Python-3.10.7-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-16.17.0-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Ruby-3.3-CC342D?style=flat&logo=Ruby&logoColor=white"> <img src="https://img.shields.io/badge/Go-1.21-00ADD8?style=flat&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/PHP-8.2-777BB4?style=flat&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++-23-F5455C?style=flat&logo=CPlusPlus&logoColor=white"> <img src="https://img.shields.io/badge/Java-22.0.1-chocolate?style=flat&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/.NET-8.0.300-512BD4?style=flat&logo=DotNet&logoColor=white"> <img src="https://img.shields.io/badge/Rust-1.82.0-dda584?style=flat&logo=Rust&logoColor=white"> 
+
 <img src="https://user-images.githubusercontent.com/61624336/184163155-980cbb4b-be36-43d1-b6c9-f6ccc20a2c7c.jpg" align="right" height="177">
 
 Então, escolha uma linguagem de programação back-end da sua preferência (PHP, Ruby, Python, Node.js, Java, Go, C++, C# e etc.), mais especificamente com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Mais precisamente utilizamos o seguinte padrão no desenvolvimento:
