@@ -9,7 +9,7 @@ It's a repository of simple application projects of <b>CRUD</b> (Create | Read |
 
 <img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" height="277" align="right">
 
-O **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada mais é do que uma aplicação de grande ou pequeno porte que consiste em criar, ler, atualizar e deletar alguma informação, seja armazenada num banco de dados ou na própria aplicação através dos **métodos do protocolo HTTP** com seus **status de requisição** e **resposta**. 
+Quando desenvolvemos aplicações com RESTful APIs, o **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada mais é do que uma aplicação de grande ou pequeno porte que consiste em criar, ler, atualizar e deletar alguma informação, seja armazenada num banco de dados ou na própria aplicação através dos *métodos do protocolo HTTP* com seus *status de requisição* baseado no modelo cliente-servidor (solicitação e resposta) através da URI. 
 
 Portanto, essa é uma aplicação Back-End que pode conter ou não interface gráfica, além de você utilizar ela de forma particular ou integrando em conjunto com outro projeto, tudo isso vai depender da necessidade.
 
@@ -22,7 +22,7 @@ Então, escolha uma linguagem de programação back-end da sua preferência (PHP
 
 - POO (Paradigma de Programação Orientada a Objetos);
 - Arquitetura MVC (Model View Controller);
-- Métodos HTTP;
+- Métodos e Status HTTP;
 - ORM ou ODM;
 - REST API;
 
