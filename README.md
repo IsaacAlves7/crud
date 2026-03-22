@@ -26,6 +26,7 @@ Para isso você deve configurar suas atividades do protocolo HTTP em ambos os la
     <td><img src="https://github.com/user-attachments/assets/cd8381be-8278-4ad0-b58b-0b5785ea9580"></td>
     <td><img src="https://github.com/user-attachments/assets/3e120af8-936f-4ec2-b815-fb47d7757cd5"></td>
     <td><img src="https://github.com/user-attachments/assets/0f9a6aec-039e-40cc-8a34-3bdebd7a5ebf"></td>
+    <td><img src="https://github.com/user-attachments/assets/6c66a2b4-b795-42af-b15c-9528b3d541e4"></td>
   </tr>
 </table>
 
