@@ -97,6 +97,8 @@ Em relação ao **banco de dados**, você pode escolher algum **modelo de banco*
 - **ORM** (Mapeamento objeto-relacional) serve para banco de dados relacionais, com esse tipo de mapeamento podemos
 - **ODM** (Mapeamento objeto-documento) serve para banco de dados NoSQL, com esse tipo de mapeamento podemos
 
+<img width="1060" height="500" alt="Captura de tela 2025-06-18 202746" src="https://github.com/user-attachments/assets/371dcaba-2357-4380-9128-69090e258547" />
+
 > 🔄 Essa parte será aprofundada melhor na **arquitetura MVC** com o tópico **Model**.
 
 ## Web Stacks
